@@ -1,9 +1,9 @@
-# sofrino_grabber
-Это парсер sofrino.ro
+<h1>#sofrino_grabber</h1>
 
 
 
-Нужно скачать этот репозиторий git clone
+
+Нужно скачать этот репозиторий git clone https://github.com/th3end0f3v4ng3l10n/sofrino_grabber.git
 
 
 
