@@ -1,4 +1,4 @@
-<h1>#           sofrino_grabber</h1>
+<h1>        #           sofrino_grabber</h1>
 
 ----
 
@@ -18,6 +18,12 @@ or
 or
     
     python main.py
+
+<h2>DOCS</h2>
+Перед запуском программы убедитесь, что output.xlsx пустой.
+
+Для работы программы output.xlsx должен быть в папке output.xlsx.
+
 <h2> Пример работы: </h2>
 
 ![Image alt](https://github.com/th3end0f3v4ng3l10n/sofrino_grabber/blob/main/example.png)
