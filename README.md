@@ -20,6 +20,8 @@ or
     python main.py
 
 <h2>DOCS</h2>
+Убедитесь в том, что у вас Python3.
+
 Перед запуском программы убедитесь, что output.xlsx пустой.
 
 Для работы программы output.xlsx должен быть в папке output.xlsx.
